@@ -22,7 +22,7 @@
 
 </div>
 
- ![Snake animation](https://github.com/DelMoura/DelMoura/blob/output/github-contribution-grid-snake.svg)
+<img align="right" width="120" height="120" src="https://c.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif">
 
  
 
